@@ -44,10 +44,10 @@ No final, é calculada a chance percentual de rebaixamento.
 
 ## 📌 Observações
 
-Este projeto não possui vínculo com a Bet365 nem com sites de apostas.
+- Este projeto não possui vínculo com a Bet365 nem com sites de apostas.
 
-Foi desenvolvido como exercício acadêmico e de programação em C.
+- Foi desenvolvido como exercício acadêmico e de programação em C.
 
-Os dados refletem a situação da última rodada do Brasileirão 2024, e não representam cenários atuais.
+- Os dados refletem a situação da última rodada do Brasileirão 2024, e não representam cenários atuais.
 
   
